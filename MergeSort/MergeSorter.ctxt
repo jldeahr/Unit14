@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=a
+comment0.target=void\ sort(java.lang.String[])
+comment0.text=\r\n\ \ \ \ Sorts\ an\ array,\ using\ merge\ sort.\r\n\ \ \ \ @param\ a\ the\ array\ to\ sort\r\n
+comment1.params=first\ second\ a
+comment1.target=void\ merge(java.lang.String[],\ java.lang.String[],\ java.lang.String[])
+comment1.text=\r\n\ \ \ \ Merges\ two\ sorted\ arrays\ into\ an\ array\r\n\ \ \ \ @param\ first\ the\ first\ sorted\ array\r\n\ \ \ \ @param\ second\ the\ second\ sorted\ array\r\n\ \ \ \ @param\ a\ the\ array\ into\ which\ to\ merge\ first\ and\ second\r\n
+numComments=2
